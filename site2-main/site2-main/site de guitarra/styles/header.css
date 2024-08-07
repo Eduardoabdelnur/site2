@@ -1,0 +1,17 @@
+.cabeçalho_menu.guitarra{
+    width: 24px;
+    height: 24px;
+    background-image: url("../img/15LPM-GLE\ 1.svg");
+    display: inline-block;
+}
+.cabeçalho{
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.conteiner{
+    display: flex;
+    align-items: center;
+}
